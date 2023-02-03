@@ -1,10 +1,6 @@
 .btn {
 	display: inline-block;
 	padding: 15px 35px;
-	background: rgb(26, 255, 0);
-	border: none;
-	text-transform: uppercase;
-	font-weight: 700;
-	color: rgb(117, 116, 116);
-	border-radius: 25px;
+	background: rgb(255, 0, 251);
+	color: #fff;
 }
